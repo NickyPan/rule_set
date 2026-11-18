@@ -1,0 +1,60 @@
+# NAME: WeChat
+# AUTHOR: Nicky
+#SOURCE: blackmatrix7
+# UPDATED: 20261128
+# HOST: 18
+# HOST-SUFFIX: 22
+# IP-ASN: 1
+# USER-AGENT: 2
+# TOTAL: 43
+HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT
+HOST,btrace.qq.com,DIRECT
+HOST,dl.wechat.com,DIRECT
+HOST,dldir1.qq.com,DIRECT
+HOST,sgfindershort.wechat.com,DIRECT
+HOST,sgilinkshort.wechat.com,DIRECT
+HOST,sglong.wechat.com,DIRECT
+HOST,sgminorshort.wechat.com,DIRECT
+HOST,sgquic.wechat.com,DIRECT
+HOST,sgshort.wechat.com,DIRECT
+HOST,slife.xy-asia.com,DIRECT
+HOST,soup.v.qq.com,DIRECT
+HOST,tencentmap.wechat.com,DIRECT
+HOST,vweixinf.tc.qq.com,DIRECT
+HOST,weixin110.qq.com,DIRECT
+HOST,wup.imtt.qq.com,DIRECT
+HOST,wx.tenpay.com,DIRECT
+HOST,wxapp.tc.qq.com,DIRECT
+HOST-SUFFIX,iot-tencent.com,DIRECT
+HOST-SUFFIX,lbs.gtimg.com,DIRECT
+HOST-SUFFIX,map.qq.com,DIRECT
+HOST-SUFFIX,qlogo.cn,DIRECT
+HOST-SUFFIX,qpic.cn,DIRECT
+HOST-SUFFIX,servicewechat.com,DIRECT
+HOST-SUFFIX,tenpay.com,DIRECT
+HOST-SUFFIX,up-hl.3g.qq.com,DIRECT
+HOST-SUFFIX,vweixinthumb.tc.qq.com,DIRECT
+HOST-SUFFIX,DIRECT.com,DIRECT
+HOST-SUFFIX,DIRECTlegal.net,DIRECT
+HOST-SUFFIX,DIRECTos.net,DIRECT
+HOST-SUFFIX,DIRECTpay.com,DIRECT
+HOST-SUFFIX,weixin.com,DIRECT
+HOST-SUFFIX,weixin.qq.com,DIRECT
+HOST-SUFFIX,weixinbridge.com,DIRECT
+HOST-SUFFIX,weixinsxy.com,DIRECT
+HOST-SUFFIX,wx.gtimg.com,DIRECT
+HOST-SUFFIX,wx.qq.com,DIRECT
+HOST-SUFFIX,wxapp.tc.qq.com,DIRECT
+HOST-SUFFIX,wxs.qq.com,DIRECT
+HOST-SUFFIX,yun-hl.3g.qq.com,DIRECT
+USER-AGENT,MicroMessenger*,DIRECT
+USER-AGENT,DIRECT*,DIRECT
+ip-cidr, 101.32.104.4/32,DIRECT
+ip-cidr, 101.32.104.41/32,DIRECT
+ip-cidr, 101.32.104.56/32,DIRECT
+ip-cidr, 101.32.118.25/32,DIRECT
+ip-cidr, 101.32.133.16/32,DIRECT
+ip-cidr, 101.32.133.53/32,DIRECT
+ip-cidr, 101.32.133.209/32,DIRECT
+ip-cidr, 129.226.3.47/32,DIRECT
+ip-cidr, 129.226.107.244/32,DIRECT
